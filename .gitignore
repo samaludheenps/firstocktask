@@ -1,0 +1,39 @@
+# Flutter/Dart specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Pods/
+macos/Flutter/ephemeral/
+.android/
+.idea/
+.vscode/
+*.iml
+
+# Xcode specific files
+**.xcworkspace/
+**.xccheckout
+**.xcuserdata/
+**DerivedData/
+**.DS_Store
+
+# Android specific files
+**/build/
+**/captures/
+**/gradle/
+**/local.properties
+**/gradlew
+**/gradlew.bat
+**/gradle.properties
+**/*.jks
+**/google-services.json
+**/android/key.properties
+
+# macOS specific files
+**/.DS_Store
+**/.idea/
+**/*.pbxproj
+**/*.xcworkspace
+**/*.xcuserdatad
